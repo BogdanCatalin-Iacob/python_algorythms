@@ -14,3 +14,14 @@ Divide and Conquer algorithm
 -   Solutions are combined to selve the original problem
 
 Running time is O(n * log(n))
+
+## Quick sort
+Breaks down a problem into multiple subproblems recursively until they become simple to solve.
+Solutions of subproblems are combined to give the final solution.
+-   Worst case running time O(n<sup>2</sup>)
+-   Best and average case running time O(n * log(n))
+
+-   ### How it works
+    -   Choose a pivot element (usually last or random)
+    -   Stores elements smaller than pivot in the left sub-array and greater element in the right sub-array
+    -   Call quick sort recursively on left sub-array and same on right sub-array
