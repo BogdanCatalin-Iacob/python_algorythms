@@ -25,3 +25,15 @@ Solutions of subproblems are combined to give the final solution.
     -   Choose a pivot element (usually last or random)
     -   Stores elements smaller than pivot in the left sub-array and greater element in the right sub-array
     -   Call quick sort recursively on left sub-array and same on right sub-array
+
+
+## Breadth First Search (BFS)
+-   Is an algorithm for traversing or searcing graphs
+-   Time complexity:
+    -   O(|V| + |E|)
+    |V| - number of nodes
+    |E| - number of edges
+
+-   Applications:
+    -   Shortest path between two nodes (unweighted graph)
+    -   Ford-Fulkerson algorithm (Max flow in a network)
