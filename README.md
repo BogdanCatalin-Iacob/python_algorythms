@@ -30,9 +30,9 @@ Solutions of subproblems are combined to give the final solution.
 ## Breadth First Search (BFS)
 -   Is an algorithm for traversing or searcing graphs
 -   Time complexity:
-    -   O(|V| + |E|)
-    |V| - number of nodes
-    |E| - number of edges
+    -   O(|V| + |E|)<br>
+    |V| - number of nodes<br>
+    |E| - number of edges<br>
 
 -   Applications:
     -   Shortest path between two nodes (unweighted graph)
