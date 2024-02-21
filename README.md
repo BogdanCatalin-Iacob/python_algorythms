@@ -37,3 +37,8 @@ Solutions of subproblems are combined to give the final solution.
 -   Applications:
     -   Shortest path between two nodes (unweighted graph)
     -   Ford-Fulkerson algorithm (Max flow in a network)
+
+
+## Dijkstra's Shortest Path Algorithm
+-   Calculate shortest path from a fixed node to every other node
+    -   Used to find distances and routes between cities
